@@ -1,0 +1,73 @@
+{
+  "Lineas": [
+    {
+      "Linea": "RO",
+      "Columnas": [
+        "RO",
+        "RO-S2-R1",
+        "RO-S2-M1",
+        "RO-S1-M1",
+        "RO-S1-R1"
+      ]
+    },
+    {
+      "Linea": "AM",
+      "Columnas": [
+        "AM",
+        "AM-S1-R1",
+        "AM-S1-M1",
+        "AM-S1-R2",
+        "AM-S2-R1",
+        "AM-S2-M1"
+      ]
+    },
+    {
+      "Linea": "VE",
+      "Columnas": [
+        "VE","VE-S2-R1","VE-S2-I1","VE-S2-M1","VE-S1-M1","VE-S1-R1"
+      ]
+    },
+    {
+      "Linea": "AZ",
+      "Columnas": [
+        "AZ","AZ-S1-M1","AZ-S1-I1","AZ-S1-I2","AZ-S1-R1","AZ-S2-R1","AZ-S2-M1"
+      ]
+    },
+    {
+      "Linea": "BL",
+      "Columnas": [
+        "BL","BL-S1-M1","BL-S1-R1","BL-S2-R1","BL-S2-I1","BL-S2-M1"
+      ]
+    },
+    {
+      "Linea": "NA",
+      "Columnas": [
+        "NA","NA-S1-R1","NA-S1-I1","NA-S1-M1","NA-S2-M1","NA-S2-R1"
+      ]
+    },
+    {
+      "Linea": "CE",
+      "Columnas": [
+        "CE","CE-S1-R1","CE-S1-M1","CE-S2-R1","CE-S2-M1","CE-S2-R2"
+      ]
+    },
+    {
+      "Linea": "MO",
+      "Columnas": [
+        "MO","MO-S1-M1","MO-S1-R1","MO-S2-M1","MO-S2-R1"
+      ]
+    },
+    {
+      "Linea": "CA",
+      "Columnas": [
+        "CA","CA-S1-R1","CA-S1-M1"
+      ]
+    },
+    {
+      "Linea": "PL",
+      "Columnas": [
+        "PL","PL-S1-M1","PL-S1-I1","PL-S1-R1"
+      ]
+    }
+  ]
+}
