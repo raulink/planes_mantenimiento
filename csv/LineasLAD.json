@@ -1,0 +1,31 @@
+{
+  "Lineas": [
+    {
+      "Linea": "RO",
+      "Columnas": [
+        "RO",
+        "RO-S2-R1",
+        "RO-S2-M1",
+        "RO-S1-M1",
+        "RO-S1-R1"
+      ]
+    },
+    {
+      "Linea": "AM",
+      "Columnas": [
+        "AM",
+        "AM-S1-R1",
+        "AM-S1-M1",
+        "AM-S1-R2",
+        "AM-S2-R1",
+        "AM-S2-M1"
+      ]
+    },        
+    {
+      "Linea": "MO",
+      "Columnas": [
+        "MO","MO-S1-M1","MO-S1-R1","MO-S2-M1","MO-S2-R1"
+      ]
+    }
+  ]
+}
