@@ -26,6 +26,12 @@
       "Columnas": [
         "MO","MO-S1-M1","MO-S1-R1","MO-S2-M1","MO-S2-R1"
       ]
+    },
+    {
+      "Linea": "AZ",
+      "Columnas": [
+        "AZ","AZ-S1-M1","AZ-S1-I1","AZ-S1-I2","AZ-S1-R1","AZ-S2-R1","AZ-S2-M1"
+      ]
     }
   ]
 }
